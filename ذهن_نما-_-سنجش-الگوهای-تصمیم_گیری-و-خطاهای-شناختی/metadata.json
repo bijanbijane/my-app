@@ -1,6 +1,0 @@
-{
-  "name": "ذهن‌نما | سنجش الگوهای تصمیم‌گیری و خطاهای شناختی",
-  "description": "اپلیکیشن موبایل‌محور بازی‌های شناختی و روان‌شناختی جهت بررسی الگوهای تصمیم‌گیری، سوگیری‌ها و کالیبراسیون فراشناختی",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
